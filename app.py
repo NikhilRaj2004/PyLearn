@@ -20,4 +20,3 @@ with col2:
         il, pl = output(vth, rth, rl)
         st.write(f"Load Current = {il:.2f} A")
         st.write(f"Load Power = {pl:.2f} Watts")
-
